@@ -48,7 +48,9 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.2.15f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Bomber\Code\BomberFlightController.cs" />
+    <Compile Include="Assets\PlaneControls.cs" />
+    <Compile Include="Assets\InputSystem_Actions.cs" />
+    <Compile Include="Assets\code\BomberB17FlightController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\P38J Lightning\README.txt" />
